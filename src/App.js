@@ -1,10 +1,10 @@
-import ShoppingList from "./ShoppingList";
+import SimpleCounter from "./SimpleCalculator";
 import "./styles.css";
 
 export default function App() {
   return (
     <div className="App">
-      <ShoppingList />
+      <SimpleCounter />
     </div>
   );
 }

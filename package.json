@@ -9,6 +9,7 @@
   "main": "src/index.js",
   "dependencies": {
     "@babel/runtime": "7.13.8",
+    "emmet": "2.3.2",
     "react": "17.0.1",
     "react-dom": "17.0.1",
     "react-scripts": "4.0.0"
